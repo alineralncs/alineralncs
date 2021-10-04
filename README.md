@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alineralncs 
-- 👀 I’m interested in Computer science and graphic design
-- 🌱 I’m currently learning phyton 
+- 👀 Computer Science Student 
+- 🌱 I’m currently learning phyton  
 - 💞️ I’m looking to collaborate on personal projects and my school projects as well 
 - 📫 How to reach me: alineralncs@gmail.com
 
