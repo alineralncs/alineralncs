@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aline Alencar</h1>
-<h3 align="center">A Computer Science Student and Full Stack Developer</h3>
+<h3 align="center">A Computer Science Graduate and Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Python, Vue js and Tailwind CSS**
 
